@@ -29,3 +29,5 @@ This output represents a carefully selected list of movies, each chosen based on
 **Conclusion:**
 
 In a digital landscape saturated with entertainment options, the development of a robust recommendation system assumes paramount significance. This project underscores the potential of content-based filtering, wherein the inherent characteristics of each film are dissected and translated into a numerical representation for comprehensive analysis. Through a synthesis of text processing, feature engineering, and similarity analysis, our recommendation system stands as a testament to the efficacy of data-driven approaches in enhancing user experiences.
+
+**Dataset Link-** https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv
